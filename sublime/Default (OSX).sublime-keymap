@@ -1,0 +1,9 @@
+[  
+  { "keys": ["home"], "command": "move_to", "args": {"to": "bol"} },
+  { "keys": ["end"], "command": "move_to", "args": {"to": "eol"} },
+  { "keys": ["shift+end"], "command": "move_to", "args": {"to": "eol", "extend": true} },
+  { "keys": ["shift+home"], "command": "move_to", "args": {"to": "bol", "extend": true } },
+  { "keys": ["super+shift+up"], "command": "swap_line_up" }, 
+  { "keys": ["super+shift+down"], "command": "swap_line_down" },
+  { "keys": ["super+k", "super+k"], "command": "sublime_merge_open_repo", "args": {"paths": ["$file"]}}
+]

@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "127.0.0.1:1087",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Favorites",
+		"Markdown Table Formatter",
+		"Package Control",
+		"QML",
+		"SideBarEnhancements"
+	]
+}
